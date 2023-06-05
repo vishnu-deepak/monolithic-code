@@ -1,4 +1,4 @@
-In this repo we have created monolithic application
+In this repo we have created monolithic (all modules at one place) application
 
 #Backend : python flask
 
